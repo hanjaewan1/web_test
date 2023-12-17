@@ -1,0 +1,41 @@
+#contests {
+  padding-top: 50px;
+}
+a {
+  font-size: 1.3em;
+}
+td {
+  text-align: center;
+}
+img {
+  padding-left: 30px;
+}
+.contest {
+  padding-right: 10px;
+}
+.img_fieldset {
+  display: flex;
+}
+fieldset {
+  display: flex;
+  align-items: center;
+  width: 600px;
+}
+fieldset legend {
+  color: red;
+}
+ul .li {
+  margin: 20px;
+}
+.before_contest {
+  position: relative;
+  left: 380px;
+}
+.next_contest {
+  position: relative;
+  left: 790px;
+}
+.Nobefore_next_contest {
+  position: relative;
+  left: 900px;
+}
